@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXDocking_TabbedAndDocumentGroups/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_TabbedAndDocumentGroups/MainPage.xaml))
+<!-- default file list end -->
 # How to create a TabbedGroup and DocumentGroup groups 
 
 
